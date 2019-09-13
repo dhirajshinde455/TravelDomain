@@ -116,6 +116,7 @@
     <Compile Include="pooja.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sadhana.cs" />
+    <Compile Include="vaibhav.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />

@@ -5,8 +5,7 @@ using System.Web;
 
 namespace MvcTestApplication
 {
-    public class vaibhav
+    public class Class1
     {
-
     }
 }
